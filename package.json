@@ -1,7 +1,6 @@
 {
-  "name": "GetPixelApi",
+  "name": "getpixelapi",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -13,5 +12,7 @@
     "express": "^4.18.2",
     "jimp": "^0.16.2",
     "probe-image-size": "^7.2.3"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
